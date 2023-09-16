@@ -2,7 +2,7 @@
 <div align="center"> <h1> 👩🏾‍💻 Segundo Desafio do Elas na Tech</h1> </div>
 
 
-Neste desafio, a tarefa era reproduzir o layout utilizando tags semânticas, seguindo uma estrutura que incorpora as melhores práticas de marcação <b>HTML</b>. Foi essencial criar uma estrutura que transmitisse de maneira clara e organizada a hierarquia do conteúdo da página. Para alcançar esse objetivo, utilizei as seguintes tags semânticas: ```<header>, <nav>, <main>, <section>, <article>, <footer> e também a tag genérica <div>``` quando necessário.
+Neste desafio, usei o tema Toy Story, pois meu filho Lucca estava completando seu 1 aninho, então reproduzir o layout utilizando tags semânticas, seguindo uma estrutura que incorpora as melhores práticas de marcação <b>HTML</b>. Foi essencial criar uma estrutura que transmitisse de maneira clara e organizada a hierarquia do conteúdo da página. Para alcançar esse objetivo, utilizei as seguintes tags semânticas: ```<header>, <nav>, <main>, <section>, <article>, <footer> e também a tag genérica <div>``` quando necessário.
 
 A tag ```<header>``` foi utilizada para representar o cabeçalho da página, onde informações importantes, como o logotipo e o menu de navegação, foram alocadas. O ```<nav>``` foi empregado para definir a seção de navegação, permitindo aos usuários acessar facilmente diferentes partes do site.
 
@@ -14,8 +14,10 @@ Para a parte inferior da página, a tag ```<footer>``` foi empregada para inclui
 
 Essa abordagem com tags semânticas e a utilização do <b>CSS</b> não apenas torna o código mais claro e legível, mas também melhora a acessibilidade e a otimização para mecanismos de busca, garantindo que o conteúdo seja interpretado da maneira mais precisa possível pelos navegadores e pelos motores de busca, enquanto proporciona uma experiência visual atraente para os usuários.
 
+
+
 <h2> Resultado </h2> 
-<a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio2/1/" target="_blank"> Desafio 1</a>
+<a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio2/1/" target="_blank"> Desafio 2</a>
 
 <h2> 💻 Tecnologias Utilizadas no Desafio</h2>
 
