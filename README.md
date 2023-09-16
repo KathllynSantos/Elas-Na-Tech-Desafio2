@@ -6,7 +6,7 @@ Neste desafio, a tarefa era reproduzir o layout utilizando tags semânticas, seg
 
 A tag ```<header>``` foi utilizada para representar o cabeçalho da página, onde informações importantes, como o logotipo e o menu de navegação, foram alocadas. O ```<nav>``` foi empregado para definir a seção de navegação, permitindo aos usuários acessar facilmente diferentes partes do site.
 
-O elemento ```<main>``` foi o ponto focal da estrutura, abrigando o conteúdo principal da página. Dentro do <main>, foram incorporadas as tags ```<section>``` e ```<article>```, que foram usadas para dividir o conteúdo em partes semanticamente significativas. Cada ```<section>``` representou uma seção distinta da página, enquanto ```<article>``` foi usado para destacar conteúdos independentes, como postagens de blog ou artigos.
+O elemento ```<main>``` foi o ponto focal da estrutura, abrigando o conteúdo principal da página. Dentro do ```<main>```, foram incorporadas as tags ```<section>``` e ```<article>```, que foram usadas para dividir o conteúdo em partes semanticamente significativas. Cada ```<section>``` representou uma seção distinta da página, enquanto ```<article>``` foi usado para destacar conteúdos independentes, como postagens de blog ou artigos.
 
 Para estilizar esta estrutura, utilizei <b>CSS</b> (Cascading Style Sheets). O <b>CSS</b> foi fundamental para definir o visual da página, incluindo cores, tipografia, margens, espaçamentos e outros aspectos visuais. As classes e seletores <b>CSS</b> foram aplicados de forma seletiva a elementos específicos dentro das tags semânticas, garantindo que o design ficasse alinhado com as cores de minha preferência e as diretrizes estilísticas estabelecidas.
 
