@@ -16,7 +16,7 @@ Essa abordagem com tags semânticas e a utilização do <b>CSS</b> não apenas t
 
 
 
-<h2> Resultado </h2> 
+<h2> 🌐 Resultado </h2> 
 <a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio2/1/" target="_blank"> Desafio 2</a>
 
 <h2> 💻 Tecnologias Utilizadas no Desafio</h2>
